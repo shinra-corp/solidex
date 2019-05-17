@@ -1,0 +1,4 @@
+*.DS_store
+*.swp
+bulid/
+node_modules/
